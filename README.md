@@ -1,6 +1,6 @@
 # Create an Account
 
-Simple sign on/create an account page that allows your to enter your your name, username and passoword. It will alert your input.
+Simple sign on/create an account page that allows you to enter your name, username, and password. It will alert your input back to you.
 
 
 ## Introduction
