@@ -12,7 +12,7 @@ Making projects is part of the learning process and I wanted to make a form that
 
 ## Features
 
-The project was made with HTML, plain CSS, and Vanilla JavaScipt.
+The project was made with HTML, plain CSS, and Vanilla JavaScript.
 
 ## Usage
 ![Screen Shot 2023-10-04 at 7 49 28 AM](https://github.com/axmsj/Create-an-Account-Project/assets/115781553/6be62b73-10e3-4b3c-9d0f-88d231fbcde9)
